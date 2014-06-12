@@ -290,6 +290,28 @@
 5.	Spread on wax paper to cool. Store in sealed container.
 
 
+# Naan #
+
+## Ingredients ##
+*	1/2	C	water (warm)
+*	1		t	yeast
+*	1 		t	sugar
+
+*	1 3/4	C	flour
+*	1		t	salt
+*	2		t	sugar
+
+*	2		T	olice oil
+
+## Directions ##
+1.	Add yeast and 1t sugar to warm water, set aside.
+2.	Mix dry ingredients in bowl.
+3.	Work yeasty water into dry ingredients.
+4.	Pour oil over dough, let rise 1 hour.
+5.	Split dough in 8-10 pieces. Roll or press thin.
+6.	Pan fry with additional oil as needed, 1-2 minutes per side.
+
+
 # Pizza Dough #
 
 ## Ingredients ##
@@ -302,6 +324,24 @@
 
 ## Directions ##
 1.	Add all ingredients to bread machine in the order given. Set to dough (2 lb. loaf).
+
+
+# Rice Pilaf #
+
+## Ingredients ##
+*	1		C	rice
+*	2		T	olive oil
+*	1/2		C	orzo
+*	2		C	water
+
+*	1		T	chicken bullion
+*	1		t	parsely flakes
+*	1		t	chives
+
+## Directions ##
+1.	Heat rice, orzo, and oil in medium saucepan over medium heat until golden brown.
+2.	Add water, then stir in spices.
+3.	Bring boil, then reduce to low heat. Simmer until water is absorbed, about 15-20 minutes.
 
 
 # Stew #
