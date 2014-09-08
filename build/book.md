@@ -1,13 +1,15 @@
+
+
 # Conversions #
 
-            | Dry       | Liquid    |
-|-----------|-----------|-----------|
-|   1   C   |   16  T   |   8   oz  |
-|   1/2 C   |   8   T   |   4   oz  |
-|   1/3 C   |   5T & 1t |   2.7 oz  |
-|   1/4 C   |   4   T   |   2   oz  |
-|   1/8 C   |   2   T   |   1   oz  |
-|   1   T   |   3   t   |   1/2 oz  |
+|       | Dry     | Liquid |
+|:------|:--------|:-------|
+| 1   C | 16  T   | 8   oz |
+| 1/2 C | 8   T   | 4   oz |
+| 1/3 C | 5T & 1t | 2.7 oz |
+| 1/4 C | 4   T   | 2   oz |
+| 1/8 C | 2   T   | 1   oz |
+| 1   T | 3   t   | 1/2 oz |
 
 
 # Substitutions #
@@ -98,6 +100,7 @@
 3.	Add vingegar and stir briefly. Quickly pour batter into greased 8x8 baking pan.
 4.	Bake at 375°F for 25 to 30 minutes.
 
+
 # Chocolate Chip Cookies #
 
 ## Ingredients ##
@@ -145,7 +148,6 @@
 1.	Make a roux with oil, flour, and chili powder in saucepan
 2.	Add water, tomato sauce, and spices.
 3.	Bring to low boil and thicken about 10 min, stirring constantly.
-
 
 
 # Fajita Seasoning Mix #
@@ -447,5 +449,3 @@
 *	1/2		t	basil
 *	1/2		t	parsley
 *	1/4		t	celery salt
-
-
