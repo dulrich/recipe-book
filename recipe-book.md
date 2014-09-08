@@ -301,7 +301,7 @@
 *	1		t	salt
 *	2		t	sugar
 
-*	2		T	olice oil
+*	2		T	olive oil
 
 ## Directions ##
 1.	Add yeast and 1t sugar to warm water, set aside.
