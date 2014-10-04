@@ -1,6 +1,6 @@
 SHELL := /bin/bash
 
-source_files    := $(wildcard intro.md recipes/*.md)
+source_files    := $(wildcard intro.md recipes/*.md footer.md)
 build_files     := $(source_files:%.md=html/%.html)
 output_md       := build/book.md
 output_html     := build/book.html
