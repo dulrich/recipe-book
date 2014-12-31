@@ -11,6 +11,7 @@
 ## Tomato Suace ##
 *	8		oz	tomato sauce
 *	1		T	italian seasoning
+*	1		T	minced garlic
 
 # Garlic & Herb Spread ##
 *	1/4		C	olive oil
