@@ -663,7 +663,7 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1/4		t	celery salt
 
 
-**Copyright (c)  2012 - 2014 David Ulrich**
+**Copyright (c)  2012 - 2015 David Ulrich**
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
