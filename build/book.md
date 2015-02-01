@@ -205,6 +205,9 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 
 # Chocolate Chip Cookies #
 
+This recipe makes around 18 to 24 decent sized cookies.
+For more than two people it is recommended to make a "double" batch.
+
 ## Ingredients ##
 *	1 1/4	C	flour
 *	1/2		t	baking soda
