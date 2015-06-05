@@ -5,6 +5,10 @@
 *	2		C	heavy cream
 *	1/2		C	milk
 
+## Alternate Base ##
+*	14		oz	sweetened condensed milk
+*	3		C	half and half
+
 ## Blueberry (Flavor) ##
 *	2		C	blueberries
 *	1/2		C	sugar

@@ -150,7 +150,7 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 4.	Bake at 350°F for 60 minutes. Baste every 15 minutes.
 
 
-# Tikka Masala #
+# Chicken Tikka Masala #
 
 ## Ingredients (Marinade) ##
 *	2		lb	chicken or tofu
@@ -417,6 +417,10 @@ Quick salsa for burritos, tacos, etc.
 *	14		oz	sweetened condensed milk
 *	2		C	heavy cream
 *	1/2		C	milk
+
+## Alternate Base ##
+*	14		oz	sweetened condensed milk
+*	3		C	half and half
 
 ## Blueberry (Flavor) ##
 *	2		C	blueberries

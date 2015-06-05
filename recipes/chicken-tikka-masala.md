@@ -1,4 +1,4 @@
-# Tikka Masala #
+# Chicken Tikka Masala #
 
 ## Ingredients (Marinade) ##
 *	2		lb	chicken or tofu
