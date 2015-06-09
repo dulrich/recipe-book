@@ -356,7 +356,7 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1		C	lemon/lime juice, with zest
 
 ## Directions
-1.	Whish 1C half and half with strach in bowl. Set aside.
+1.	Whisk 1C half and half with strach in bowl. Set aside.
 2.	Mix remaining half and half, sugar, and fruit juice in sauce pan.
 3.	Heat on medium until steaming.
 4.	Add cream/starch mixture, bring close to a boil while stirring, about 4 mins.
@@ -605,6 +605,21 @@ Quick salsa for burritos, tacos, etc.
 1.	Heat rice, orzo, and oil in medium saucepan over medium heat until golden brown.
 2.	Add water, then stir in spices.
 3.	Bring boil, then reduce to low heat. Simmer until water is absorbed, about 15-20 minutes.
+
+
+# Sorbet
+
+## Ingredients
+*	1		C	water
+*	3/4		C	sugar
+*	1		C	lemon/lime juice, with zest
+
+## Directions
+1.	Combine water and sugar in a sauce pan
+2.	Bring to a buil while stirring to dissolve sugar.
+4.	Combine syrup with lemon.
+5.	Remove from heat and cool in refrigerator.
+6.	Freeze according to ice cream maker instructions.
 
 
 # Stew #
