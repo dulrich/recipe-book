@@ -5,6 +5,8 @@ Quick salsa for burritos, tacos, etc.
 ## Ingredients ##
 *	1		T	chili powder
 *	1		t	cumin
+*	1		t	diced chives
+*	1/4		t	oregano
 *	8		oz	diced green chilis
 *	1		T	cornstarch
 *	1/4		C	water
