@@ -12,9 +12,22 @@
 
 # Substitutions #
 
-**Olive Oil**			use in place of butter
+**Olive Oil**			in place of butter
 
-**Whole Wheat Flour**	use in place of flour, adding 1 T wheat gluten for texture
+**Whole Wheat Flour**	in place of flour, adding 1 T wheat gluten per cup of
+flour for texture
 
+
+# Egg Replacer #
+
+If a recipe calls for egg (replacer) and salt or baking soda, mixing the powders
+before adding water helps to prevent clumping. This also applies to corn starch
+and spice mixes.
+
+
+# Silpat #
+
+Adjust baking times up by 10-15% as the silpat tends to insulate the bottom
+of the food compared to baking directly on the pan.
 
 ------------
