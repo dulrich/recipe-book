@@ -4,13 +4,21 @@
 *	1 1/2	C	water (warm)
 *	2		T	butter (softened)
 *	4		C	flour
-*	1/4		C	sugar
+*	2		T	sugar
 *	2		t	salt
 *	2		T	powdered milk
 *	2		t	active dry yeast
 
-## Directions ##
+## Bread Sticks ##
+Double butter to 4T, omit powdered milk. After first rise, split dough in 8 or 16
+parts, depending on desired size of breadsticks. Roll between hands into narrow
+tubes, place on baking sheet for second rise. The breadsticks will come together
+at the edges. Bake at 400 degrees for 20-30 minutes.
+
+## Directions (Bread Machine) ##
 1.	Add all ingredients to bread machine in the order given. Set to desired crust (2 lb. loaf).
+
+## Directions (
 
 ## Sourdough Substitution ##
 The exact substitution ratio will depend on how wet or dry your starter is kept.

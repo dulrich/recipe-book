@@ -5,7 +5,7 @@
 *	2		T	olive oil
 *	4 1/2	C	flour
 *	2		t	salt
-*	2		t	sugar
+*	2		T	sugar
 *	2		t	active dry yeast
 
 ## Tomato Suace ##
