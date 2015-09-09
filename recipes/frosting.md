@@ -1,4 +1,4 @@
-# Chocolate Cake #
+# Frosting #
 
 ## Ingredients ##
 *	4		C	sifted powdered sugar
