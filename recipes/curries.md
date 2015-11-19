@@ -1,25 +1,25 @@
-# Curries #
+# Curries
 
 This is a general guide, not a specific recipe.
 Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 
-## "Sauteing" Spices ##
+## "Sauteing" Spices
 *	1-2		T	Minced Garlic
 *	1		C	Chopped Onion
 *	1-2		T	Minced Ginger
 
-## "Aromatic" Spices ##
+## "Aromatic" Spices
 *	1/2		t	Cinnamon
 *	1/2		t	Allspice
 *	1/2		t	Cardamom
 *	1		t	Garam Masala
 *	1/4		t	Ground Cloves
 
-## Herbs ##
+## Herbs
 *	2		t	Cilantro flakes
 *	2		t	Basil flakes
 
-## "Spicy" Spices ##
+## "Spicy" Spices
 *	1-2		T	Curry Powder
 *	1-2		t	Cumin Powder
 *	1		T	Chili Powder
@@ -28,7 +28,7 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1		t	Ground Black Pepper
 *	1		t	Cayenne Powder
 
-## Directions ##
+## Directions
 1.	Melt 2T fat in a large saucepan. Butter, olive oil, or coconut oil work well, depending on the desired flavor.
 2.	Add any "Sauteing" spices to saucepan for carmelization (5min).
 3.	Add other desired spices and fry additionial 2-3min to bring out flavors.

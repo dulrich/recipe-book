@@ -1,6 +1,6 @@
-# Zesty Italian Dressing #
+# Zesty Italian Dressing
 
-## Ingredients ##
+## Ingredients
 *	1		C	vinegar
 *	1		C	olive oil
 *	1/2		T	garlic salt

@@ -1,6 +1,6 @@
-# Butterflake Rolls #
+# Butterflake Rolls
 
-## Ingredients ##
+## Ingredients
 *	1		T	yeast
 *	2		T	warm water
 *	1			egg
@@ -11,7 +11,7 @@
 *	4		T	butter
 *	2 1/2	C	flour
 
-## Directions ##
+## Directions
 1.	Mix yeast, warm water, egg (or replacer), sugar, and salt in a bowl.
 2.	Add milk and hot water, mix.
 3.	Mix in flour. Sprinkle with additional flour until a workable soft dough is formed.

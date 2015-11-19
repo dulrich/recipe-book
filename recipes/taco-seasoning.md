@@ -1,6 +1,6 @@
-# Taco Seasoning #
+# Taco Seasoning
 
-## Ingredients ##
+## Ingredients
 *	2		t	minced onion
 *	2		T	chili powder
 *	2		t	ground cumin
@@ -10,6 +10,6 @@
 *	1/2		t	salt
 *	2		T	corn starch
 
-## Directions ##
+## Directions
 1.	Mix all ingredients in bowl.
 2.	Equals one taco seasoning packet.

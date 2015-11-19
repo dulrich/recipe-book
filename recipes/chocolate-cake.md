@@ -1,6 +1,6 @@
-# Chocolate Cake #
+# Chocolate Cake
 
-## Ingredients ##
+## Ingredients
 *	1 1/2	C	flour
 *	1/3		C	unsweetened cocoa powder
 *	1/2		t	baking soda
@@ -11,7 +11,7 @@
 *	2		t	vanilla
 *	2		T	cider vinegar
 
-## Directions ##
+## Directions
 1.	Sift together flour, cocoa powder, baking soda, salt, and sugar in medium bowl.
 2.	Cream together butter, sugar, and vanilla. Cut into dry ingredients.
 3.	Stir together water and vinegar, add to dry ingredients and stir briefly.

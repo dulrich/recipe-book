@@ -1,6 +1,6 @@
-# Fudge #
+# Fudge
 
-## Ingredients ##
+## Ingredients
 *	2		C	white sugar
 *	1/4		t	salt
 *	2 1/2	sq	unsweetened chocolate
@@ -9,7 +9,7 @@
 *	2		T	butter
 *	1		t	vanilla
 
-## Directions ##
+## Directions
 1.	Place all ingredients except butter and vanilla in a heavy saucepan.
 2.	Cook over MED-LOW heat, stirring constantly until boiling.
 3.	Insert candy thermometer and heat to 234°F, stirring occasionally. Remove from heat and DO NOT STIR.

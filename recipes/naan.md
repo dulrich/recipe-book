@@ -1,6 +1,6 @@
-# Naan #
+# Naan
 
-## Ingredients ##
+## Ingredients
 *	1/2	C	water (warm)
 *	1		t	yeast
 *	1 		t	sugar
@@ -11,7 +11,7 @@
 
 *	2		T	olive oil
 
-## Directions ##
+## Directions
 1.	Add yeast and 1t sugar to warm water, set aside.
 2.	Mix dry ingredients in bowl.
 3.	Work yeasty water into dry ingredients.

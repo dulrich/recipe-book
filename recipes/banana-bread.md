@@ -1,6 +1,6 @@
-# Banana Bread #
+# Banana Bread
 
-## Ingredients ##
+## Ingredients
 *	1/2		C	brown sugar
 *	1/2		C	sugar
 *	1/2		C	butter
@@ -15,7 +15,7 @@
 *	1/2		t	ground cloves
 *	1/2		t	salt
 
-## Directions ##
+## Directions
 1.	Mix flour, baking soda, salt, and spices in large bowl.
 2.	Cream together butter and sugars. Add bananas, milk, vinegar, and vanilla.
 3.	Add wet ingredients to dry ingredients. Mix well.

@@ -1,4 +1,4 @@
-# Conversions #
+# Conversions
 
 |       | Dry     | Liquid |
 |:------|:--------|:-------|
@@ -10,7 +10,7 @@
 | 1   T | 3   t   | 1/2 oz |
 
 
-# Substitutions #
+# Substitutions
 
 **Olive Oil**			in place of butter
 
@@ -18,14 +18,14 @@
 flour for texture
 
 
-# Egg Replacer #
+# Egg Replacer
 
 If a recipe calls for egg (replacer) and salt or baking soda, mixing the powders
 before adding water helps to prevent clumping. This also applies to corn starch
 and spice mixes.
 
 
-# Silpat #
+# Silpat
 
 Adjust baking times up by 10-15% as the silpat tends to insulate the bottom
 of the food compared to baking directly on the pan.

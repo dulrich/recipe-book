@@ -1,6 +1,6 @@
-# Szechuan Sauce #
+# Szechuan Sauce
 
-## Ingredients ##
+## Ingredients
 *	1		t	ground cayenne pepper
 *	2		t	garlic powder
 *	1		t	onion powder
@@ -11,5 +11,5 @@
 *	2		T	soy sauce
 *	1/4		C	hoisin sauce
 
-## Directions ##
+## Directions
 1.	Mix ALL in bowl.

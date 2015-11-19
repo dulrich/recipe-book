@@ -1,11 +1,11 @@
-# Pizza Dough #
+# Pizza Dough
 
-## Tomato Suace ##
+## Tomato Suace
 *	8		oz	tomato sauce
 *	1		T	italian seasoning
 *	1		T	minced garlic
 
-# Garlic & Herb Spread ##
+# Garlic & Herb Spread
 *	1/4		C	olive oil
 *	2		T	minced garlic
 *	2		T	italian seasoning

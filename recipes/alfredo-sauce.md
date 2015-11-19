@@ -1,6 +1,6 @@
-# Alfredo Sauce #
+# Alfredo Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	butter
 *	1/4		C	flour
 *	1    C	cream
@@ -10,7 +10,7 @@
 *	2		T	italian seasoning
 * 1		t	basil
 
-## Directions ##
+## Directions
 1.	Make a roux with butter and flour in saucepan
 2.  Add cream and chicken broth gradually, stirring to maintain smoothness.
 3.	Add garlic, spices, and cheese. 

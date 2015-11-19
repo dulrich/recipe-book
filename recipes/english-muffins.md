@@ -1,6 +1,6 @@
-# English Muffins #
+# English Muffins
 
-## Ingredients ##
+## Ingredients
 
 *	6		T	powdered milk
 *	2		T	sugar
@@ -11,7 +11,7 @@
 *	1		t	salt
 *	1/4		C	corn meal
 
-## Directions ##
+## Directions
 1.	Mix dry ingredients in a bowl, cut in shortening.
 2.	Add water to dry ingredients, stir into a soft dough.
 3.	Cover and let rise, about 1 hour.

@@ -1,28 +1,28 @@
-# Ice Cream #
+# Ice Cream
 
-## Ingredients (Base) ##
+## Ingredients (Base)
 *	14		oz	sweetened condensed milk
 *	2		C	heavy cream
 *	1/2		C	milk
 
-## Alternate Base ##
+## Alternate Base
 *	14		oz	sweetened condensed milk
 *	3		C	half and half
 
-## Blueberry (Flavor) ##
+## Blueberry (Flavor)
 *	2		C	blueberries
 *	1/2		C	sugar
 
-## Raspberry (Flavor) ##
+## Raspberry (Flavor)
 *	2		C	raspberries
 *	3/4		C	sugar
 
-## Vanilla (Flavor) ##
+## Vanilla (Flavor)
 *	2		t	vanilla extract
 *	1/4		C	sugar
 *	1/2		C	milk
 
-## Directions ##
+## Directions
 1.	Mix base ingredients in a large bowl.
 2.	Prepare a flavor:
 	*	Fruit flavors: mix flavor ingredients in a saucepan, cook over MED-LOW heat.

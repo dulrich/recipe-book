@@ -1,6 +1,6 @@
-# Chicken Tikka Masala #
+# Chicken Tikka Masala
 
-## Ingredients (Marinade) ##
+## Ingredients (Marinade)
 *	2		lb	chicken or tofu
 *	1		C	yogurt
 *	2		T	lemon juice
@@ -10,7 +10,7 @@
 *	2		t	black pepper
 *	2		t	ginger powder
 
-## Ingredients (Sauce) ##
+## Ingredients (Sauce)
 *	1		C	tomato sauce
 *	1		C	heavy cream
 *	1		T	coconut oil
@@ -20,7 +20,7 @@
 *	1/2		t	cinnamon
 *	2		t	cilantro
 
-## Directions ##
+## Directions
 1.	Cube chicken or tofu.
 2.	Mix marinade ingredients in a bowl.
 3.	Add chicken or tofu to marinade, refrigerate 1 hour.

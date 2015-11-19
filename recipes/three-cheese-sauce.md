@@ -1,6 +1,6 @@
-# Three Cheese Sauce #
+# Three Cheese Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	three cheese blend (romano, parmessian, asagio)
 *	1		t	cumin powder
 *	1		t	onion powder
@@ -11,7 +11,7 @@
 *	1		t	ginger powder
 *	1-2		C	milk
 
-## Directions ##
+## Directions
 1.	Mix dry ingredients in bowl.
 2.	Make gravy, use milk to thin.
 3.	Stir in cheese/spice mixture.

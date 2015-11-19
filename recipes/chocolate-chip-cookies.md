@@ -1,9 +1,9 @@
-# Chocolate Chip Cookies #
+# Chocolate Chip Cookies
 
 This recipe makes around 18 to 24 decent sized cookies.
 For more than two people it is recommended to make a "double" batch.
 
-## Ingredients ##
+## Ingredients
 *	1 1/4	C	flour
 *	1/2		t	baking soda
 *	1/4		t	salt
@@ -14,7 +14,7 @@ For more than two people it is recommended to make a "double" batch.
 *	1			egg
 *	1/2		C	chocolate chips
 
-## Directions ##
+## Directions
 1.	Mix flour, baking soda, and salt in bowl.
 2.	Cream together butter, sugar, and vanilla. Add egg.
 3.	Slowly add dry ingredients to wet and mix well. Stir in chocolate chips.

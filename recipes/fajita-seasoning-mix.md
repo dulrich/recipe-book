@@ -1,6 +1,6 @@
-# Fajita Seasoning Mix #
+# Fajita Seasoning Mix
 
-## Ingredients ##
+## Ingredients
 *	1		T	cornstarch
 *	2		t	chili powder
 *	1		t	paprika
@@ -11,6 +11,6 @@
 *	1/4		t	cayenne powder
 *	1/2		t	cumin
 
-## Directions ##
+## Directions
 1.	Mix all ingredients in bowl.
 2.	2 T equals one package fajita seasoning.

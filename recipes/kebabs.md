@@ -1,6 +1,6 @@
-# Kebabs #
+# Kebabs
 
-## Ingredients (kebab) ##
+## Ingredients (kebab)
 *	2		lb	ground beef
 *	1/2			onion, grated
 *	6			cloves garlic
@@ -11,12 +11,12 @@
 *	2		t	ground sumac
 *	2		t	parsley flakes
 
-## Basting Sauce ##
+## Basting Sauce
 *	2		T	olive oil
 *	1/4		t	ground saffron
 *	1		T	water, warm
 
-## Directions ##
+## Directions
 1.	Disolve saffron in water. Mix with olive oil in small bowl and set aside.
 2.	Mix kebab ingredients in large bowl.
 3.	Form kebab mixture into 1" meatballs. Cool.

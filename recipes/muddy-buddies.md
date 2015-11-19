@@ -1,6 +1,6 @@
-# Muddy Buddies #
+# Muddy Buddies
 
-## Ingredients ##
+## Ingredients
 *	9		C	Chex/Crispix type cereal
 *	1		C	chocolate chips
 *	1/2		C	peanut butter
@@ -8,7 +8,7 @@
 *	1		t	vanilla
 *	1 1/2	C	powdered sugar
 
-## Directions ##
+## Directions
 1.	Place cereal in large bowl.
 2.	Mix chocolate chips, peanut butter, and butter in microwave-safe bowl.
 	Heat on HIGH 1 min. Stir. Heat another 30 sec. Stir in vanilla.

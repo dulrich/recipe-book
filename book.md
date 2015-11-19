@@ -1,6 +1,6 @@
 
 
-# Conversions #
+# Conversions
 
 |       | Dry     | Liquid |
 |:------|:--------|:-------|
@@ -12,7 +12,7 @@
 | 1   T | 3   t   | 1/2 oz |
 
 
-# Substitutions #
+# Substitutions
 
 **Olive Oil**			use in place of butter
 
@@ -22,9 +22,9 @@
 ------------
 
 
-# Alfredo Sauce #
+# Alfredo Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	butter
 *	1/4		C	flour
 *	1    C	cream
@@ -34,16 +34,16 @@
 *	2		T	italian seasoning
 * 1		t	basil
 
-## Directions ##
+## Directions
 1.	Make a roux with butter and flour in saucepan
 2.  Add cream and chicken broth gradually, stirring to maintain smoothness.
 3.	Add garlic, spices, and cheese. 
 4.	Bring to low boil and thicken about 10 min, stirring constantly.
 
 
-# Banana Bread #
+# Banana Bread
 
-## Ingredients ##
+## Ingredients
 *	1/2		C	brown sugar
 *	1/2		C	sugar
 *	1/2		C	butter
@@ -58,23 +58,23 @@
 *	1/2		t	ground cloves
 *	1/2		t	salt
 
-## Directions ##
+## Directions
 1.	Mix flour, baking soda, salt, and spices in large bowl.
 2.	Cream together butter and sugars. Add bananas, milk, vinegar, and vanilla.
 3.	Add wet ingredients to dry ingredients. Mix well.
 4.	Pour batter into greased 4x8 bread pan. Bake at 350°F for at least one hour, until done (usually 70-80 minutes);
 
 
-# Beans (Dry) #
+# Beans (Dry)
 
 This is a general guide, not a specific recipe.
 The most important notes are soak at least six hours, drain the soaking water, and **DO NOT** add any salt or spices until after cooking.
 Added salt especially will prevent the beans from becoming tender.
 
-## Ingredients ##
+## Ingredients
 *	1-2		C	dry beans (black, red, pinto, or garbanzo are best)
 
-## Directions ##
+## Directions
 1.	Place beans in medium pot. 4-6qt slow cooker works well.
 2.	Cover with water so there is 3/4-1" over the beans.
 3.	Cover with lid and soak overnight, or at least 6 hours.
@@ -83,9 +83,9 @@ Added salt especially will prevent the beans from becoming tender.
 6.	Strain out beans. Serve or use in other recipe, such as hummus (garbanzo) or refrieds (pinto)
 
 
-# Bread Machine Bread #
+# Bread Machine Bread
 
-## Ingredients ##
+## Ingredients
 *	1 1/2	C	water (warm)
 *	2		T	butter (softened)
 *	4		C	flour
@@ -94,10 +94,10 @@ Added salt especially will prevent the beans from becoming tender.
 *	2		T	powdered milk
 *	2		t	active dry yeast
 
-## Directions ##
+## Directions
 1.	Add all ingredients to bread machine in the order given. Set to desired crust (2 lb. loaf).
 
-## Sourdough Substitution ##
+## Sourdough Substitution
 The exact substitution ratio will depend on how wet or dry your starter is kept.
 A good place to start is using 1 C starter, while reducing the flour to 3 C and the water to 1 C + 2 T.
 If this still rises and does not have enough Sourdough flavor, keep substituting at a similar ratio.
@@ -105,9 +105,9 @@ For problems with an insufficient rise in the bread machine, first try using a h
 if you are not already. This may provide enough extra rise if the sourdough is too "heavy".
 
 
-# Butterflake Rolls #
+# Butterflake Rolls
 
-## Ingredients ##
+## Ingredients
 *	1		T	yeast
 *	2		T	warm water
 *	1			egg
@@ -118,7 +118,7 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	4		T	butter
 *	2 1/2	C	flour
 
-## Directions ##
+## Directions
 1.	Mix yeast, warm water, egg (or replacer), sugar, and salt in a bowl.
 2.	Add milk and hot water, mix.
 3.	Mix in flour. Sprinkle with additional flour until a workable soft dough is formed.
@@ -130,9 +130,9 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 9.	Bake at 400 degrees for 15 minutes.
 
 
-# California Chicken #
+# California Chicken
 
-## Ingredients ##
+## Ingredients
 *	2/3		C	flour
 *	1/2		t	celery salt
 *	1/2		t	garlic powder
@@ -143,16 +143,16 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	1/2		C	soy sauce
 *	2		T	sugar
 
-## Directions ##
+## Directions
 1.	Mix flour and spices. Dredge chicken.
 2.	Brown chicken in butter. Transfer to baking pan.
 3.	Mix pineapple juice, soy sauce, and sugar. Pour over chicken.
 4.	Bake at 350°F for 60 minutes. Baste every 15 minutes.
 
 
-# Tikka Masala #
+# Tikka Masala
 
-## Ingredients (Marinade) ##
+## Ingredients (Marinade)
 *	2		lb	chicken or tofu
 *	1		C	yogurt
 *	2		T	lemon juice
@@ -162,7 +162,7 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	2		t	black pepper
 *	2		t	ginger powder
 
-## Ingredients (Sauce) ##
+## Ingredients (Sauce)
 *	1		C	tomato sauce
 *	1		C	heavy cream
 *	1		T	coconut oil
@@ -172,7 +172,7 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	1/2		t	cinnamon
 *	2		t	cilantro
 
-## Directions ##
+## Directions
 1.	Cube chicken or tofu.
 2.	Mix marinade ingredients in a bowl.
 3.	Add chicken or tofu to marinade, refrigerate 1 hour.
@@ -183,9 +183,9 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 8.	Add chicken or tofu and simmer additional 10 minutes.
 
 
-# Chocolate Cake #
+# Chocolate Cake
 
-## Ingredients ##
+## Ingredients
 *	1 1/2	C	flour
 *	1/3		C	unsweetened cocoa powder
 *	1/2		t	baking soda
@@ -196,19 +196,19 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	2		t	vanilla
 *	2		T	cider vinegar
 
-## Directions ##
+## Directions
 1.	Sift together flour, cocoa powder, baking soda, salt, and sugar in medium bowl.
 2.	Stir together oil, water, and vanilla. Add wet ingredients to dry. Mix well.
 3.	Add vingegar and stir briefly. Quickly pour batter into greased 8x8 baking pan.
 4.	Bake at 375°F for 25 to 30 minutes.
 
 
-# Chocolate Chip Cookies #
+# Chocolate Chip Cookies
 
 This recipe makes around 18 to 24 decent sized cookies.
 For more than two people it is recommended to make a "double" batch.
 
-## Ingredients ##
+## Ingredients
 *	1 1/4	C	flour
 *	1/2		t	baking soda
 *	1/4		t	salt
@@ -218,7 +218,7 @@ For more than two people it is recommended to make a "double" batch.
 *	1			egg
 *	1/2		C	chocolate chips
 
-## Directions ##
+## Directions
 1.	Mix flour, baking soda, and salt in bowl.
 2.	Cream together butter, sugar, and vanilla. Add egg.
 3.	Slowly add dry ingredients to wet and mix well. Stir in chocolate chips.
@@ -226,28 +226,28 @@ For more than two people it is recommended to make a "double" batch.
 5.	Bake at 400°F until edges are brown, but center remains pale, about 7 minutes.
 
 
-# Curries #
+# Curries
 
 This is a general guide, not a specific recipe.
 Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 
-## "Sauteing" Spices ##
+## "Sauteing" Spices
 *	1-2		T	Minced Garlic
 *	1		C	Chopped Onion
 *	1-2		T	Minced Ginger
 
-## "Aromatic" Spices ##
+## "Aromatic" Spices
 *	1/2		t	Cinnamon
 *	1/2		t	Allspice
 *	1/2		t	Cardamom
 *	1		t	Garam Masala
 *	1/4		t	Ground Cloves
 
-## Herbs ##
+## Herbs
 *	2		t	Cilantro flakes
 *	2		t	Basil flakes
 
-## "Spicy" Spices ##
+## "Spicy" Spices
 *	1-2		T	Curry Powder
 *	1-2		t	Cumin Powder
 *	1		T	Chili Powder
@@ -256,7 +256,7 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1		t	Ground Black Pepper
 *	1		t	Cayenne Powder
 
-## Directions ##
+## Directions
 1.	Melt 2T fat in a large saucepan. Butter, olive oil, or coconut oil work well, depending on the desired flavor.
 2.	Add any "Sauteing" spices to saucepan for carmelization (5min).
 3.	Add other desired spices and fry additionial 2-3min to bring out flavors.
@@ -266,20 +266,20 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 7.	Add a 'signature' ingredient, which defines the curry. Options include tofu (plain, fried), chickpeas, okra, chicken, lamb, or goat.
 
 
-# Dumplings #
+# Dumplings
 
-## Ingredients ##
+## Ingredients
 *	1		C	bisquick
 *	1/3		C	milk
 
-## Directions ##
+## Directions
 1.	Mix milk slowly into bisquick. Drop spoonfuls over gravy or stew.
 2.	Simmer uncovered 10 minutes. Cover and cook another 10 minutes, or until dumplings are cooked through.
 
 
-# Enchilada Sauce #
+# Enchilada Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	oil
 *	2		T	flour
 *	2		T	chili powder
@@ -289,15 +289,15 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1/4		t	garlic powder
 *	1/4		t	onion salt
 
-## Directions ##
+## Directions
 1.	Make a roux with oil, flour, and chili powder in saucepan
 2.	Add water, tomato sauce, and spices.
 3.	Bring to low boil and thicken about 10 min, stirring constantly.
 
 
-# Fajita Seasoning Mix #
+# Fajita Seasoning Mix
 
-## Ingredients ##
+## Ingredients
 *	1		T	cornstarch
 *	2		t	chili powder
 *	1		t	paprika
@@ -308,28 +308,28 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1/4		t	cayenne powder
 *	1/2		t	cumin
 
-## Directions ##
+## Directions
 1.	Mix all ingredients in bowl.
 2.	2 T equals one package fajita seasoning.
 
 
-# Chocolate Cake #
+# Chocolate Cake
 
-## Ingredients ##
+## Ingredients
 *	4		C	sifted powdered sugar
 *	1/3		C	shortening
 *	1/3		C	butter
 *	1		t	vanilla
 *	2		T	milk or cream
 
-## Directions ##
+## Directions
 1.	Cream together shortening, butter, vanilla and milk/cream in medium bowl.
 2.	Gradually add powdered sugar, stirring continually.
 
 
-# Fudge #
+# Fudge
 
-## Ingredients ##
+## Ingredients
 *	2		C	white sugar
 *	1/4		t	salt
 *	2 1/2	sq	unsweetened chocolate
@@ -338,7 +338,7 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	2		T	butter
 *	1		t	vanilla
 
-## Directions ##
+## Directions
 1.	Place all ingredients except butter and vanilla in a heavy saucepan.
 2.	Cook over MED-LOW heat, stirring constantly until boiling.
 3.	Insert candy thermometer and heat to 234°F, stirring occasionally. Remove from heat and DO NOT STIR.
@@ -347,9 +347,9 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 6.	Store in sealed container.
 
 
-# Ginger Tomato BBQ Sauce #
+# Ginger Tomato BBQ Sauce
 
-## Ingredients ##
+## Ingredients
 *	3/4		C	tomato catsup
 *	3		T	brown sugar
 *	2		T	soy sauce
@@ -357,28 +357,28 @@ Whatever you do, **DO NOT** use all of the following spices in a single recipe.
 *	1		t	ground ginger
 *	1/2		t	salt
 
-## Directions ##
+## Directions
 1.	Mix ALL in bowl.
 
 
-# Gravy #
+# Gravy
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	butter (softened)
 *	1/4		C	flour
 *	14		oz	chicken broth
 
-## Directions ##
+## Directions
 1.	Melt butter in large pot over low heat. Slowly stir in flour to form a roux.
 2.	Stir in chicken broth slowly to form gravy.
 3.	Add milk, water, or additional broth slowly to reach desired consistency.
 
 
-# Green Chili Salsa #
+# Green Chili Salsa
 
 Quick salsa for burritos, tacos, etc.
 
-## Ingredients ##
+## Ingredients
 *	1		T	chili powder
 *	1		t	cumin
 *	1		t	diced chives
@@ -387,15 +387,15 @@ Quick salsa for burritos, tacos, etc.
 *	1		T	cornstarch
 *	1/4		C	water
 
-## Directions ##
+## Directions
 1.	Mix spices and diced chilis in small sauce pan.
 2.	Heat on low for 5 min, stirring occasionally.
 3.	Add cornstarch and water, stir, then remove from heat.
 
 
-# Hummus #
+# Hummus
 
-## Ingredients ##
+## Ingredients
 *	1 1/2	C	chickpeas, cooked
 *	2		T	olive oil
 *	1		T	sesame oil
@@ -406,34 +406,34 @@ Quick salsa for burritos, tacos, etc.
 *	1		t	paprika
 *	1		t	red pepper flakes
 
-## Directions ##
+## Directions
 1.	Place all ingredients in food processor.
 2.	Process ~15 seconds, scrape down sides, repeat.
 3.	Add 1-4T filtered water, 1T at a time, processing in between until desired texture is reached.
 4.	Optional: sprinkle additional spices over hummus when serving.
 
 
-# Ice Cream #
+# Ice Cream
 
-## Ingredients (Base) ##
+## Ingredients (Base)
 *	14		oz	sweetened condensed milk
 *	2		C	heavy cream
 *	1/2		C	milk
 
-## Blueberry (Flavor) ##
+## Blueberry (Flavor)
 *	2		C	blueberries
 *	1/2		C	sugar
 
-## Raspberry (Flavor) ##
+## Raspberry (Flavor)
 *	2		C	raspberries
 *	3/4		C	sugar
 
-## Vanilla (Flavor) ##
+## Vanilla (Flavor)
 *	2		t	vanilla extract
 *	1/4		C	sugar
 *	1/2		C	milk
 
-## Directions ##
+## Directions
 1.	Mix base ingredients in a large bowl.
 2.	Prepare a flavor:
 	*	Fruit flavors: mix flavor ingredients in a saucepan, cook over MED-LOW heat.
@@ -445,9 +445,9 @@ Quick salsa for burritos, tacos, etc.
 5.	Serve or freeze.
 
 
-# Kebabs #
+# Kebabs
 
-## Ingredients (kebab) ##
+## Ingredients (kebab)
 *	2		lb	ground beef
 *	1/2			onion, grated
 *	6			cloves garlic
@@ -458,12 +458,12 @@ Quick salsa for burritos, tacos, etc.
 *	2		t	ground sumac
 *	2		t	parsley flakes
 
-## Basting Sauce ##
+## Basting Sauce
 *	2		T	olive oil
 *	1/4		t	ground saffron
 *	1		T	water, warm
 
-## Directions ##
+## Directions
 1.	Disolve saffron in water. Mix with olive oil in small bowl and set aside.
 2.	Mix kebab ingredients in large bowl.
 3.	Form kebab mixture into 1" meatballs. Cool.
@@ -471,24 +471,24 @@ Quick salsa for burritos, tacos, etc.
 5.	Apply basting sauce immediately after removing from heat.
 
 
-# Lemon Asparagus #
+# Lemon Asparagus
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	olive oil
 *	1			lemon, juiced
 *	1		T	minced garlic
 *	2			green onions
 *	1		lb	asparagus
 
-## Directions ##
+## Directions
 1.	Snap asparagus to desired whole or half lengths, chop green onion, and juice lemon.
 2.	Place all ingredients in a large saucepan over medium heat.
 3.	Cook ~10min or until asparagus is tender, stirring frequently to prevent scorching.
 
 
-# Muddy Buddies #
+# Muddy Buddies
 
-## Ingredients ##
+## Ingredients
 *	9		C	Chex/Crispix type cereal
 *	1		C	chocolate chips
 *	1/2		C	peanut butter
@@ -496,7 +496,7 @@ Quick salsa for burritos, tacos, etc.
 *	1		t	vanilla
 *	1 1/2	C	powdered sugar
 
-## Directions ##
+## Directions
 1.	Place cereal in large bowl.
 2.	Mix chocolate chips, peanut butter, and butter in microwave-safe bowl.
 	Heat on HIGH 1 min. Stir. Heat another 30 sec. Stir in vanilla.
@@ -505,9 +505,9 @@ Quick salsa for burritos, tacos, etc.
 5.	Spread on wax paper to cool. Store in sealed container.
 
 
-# Naan #
+# Naan
 
-## Ingredients ##
+## Ingredients
 *	1/2	C	water (warm)
 *	1		t	yeast
 *	1 		t	sugar
@@ -518,7 +518,7 @@ Quick salsa for burritos, tacos, etc.
 
 *	2		T	olive oil
 
-## Directions ##
+## Directions
 1.	Add yeast and 1t sugar to warm water, set aside.
 2.	Mix dry ingredients in bowl.
 3.	Work yeasty water into dry ingredients.
@@ -527,9 +527,9 @@ Quick salsa for burritos, tacos, etc.
 6.	Pan fry with additional oil as needed, 1-2 minutes per side.
 
 
-# Olive Tapenade #
+# Olive Tapenade
 
-## Ingredients ##
+## Ingredients
 *	8		oz	black olives, drained
 *	2		T	lemon juice
 *	1		T	minced garlic
@@ -537,14 +537,14 @@ Quick salsa for burritos, tacos, etc.
 *	1		T	worcestershire sauce
 *	2		t	flour
 
-## Directions ##
+## Directions
 1.	Place all ingredients in food processor. Omit italian seasoning for spiced breads.
 2.	Pulse until minced.
 
 
-# Pizza Dough #
+# Pizza Dough
 
-## Ingredients ##
+## Ingredients
 *	1 1/2	C	water (warm)
 *	2		T	olive oil
 *	4 1/2	C	flour
@@ -552,12 +552,12 @@ Quick salsa for burritos, tacos, etc.
 *	2		t	sugar
 *	2		t	active dry yeast
 
-## Tomato Suace ##
+## Tomato Suace
 *	8		oz	tomato sauce
 *	1		T	italian seasoning
 *	1		T	minced garlic
 
-# Garlic & Herb Spread ##
+# Garlic & Herb Spread
 *	1/4		C	olive oil
 *	2		T	minced garlic
 *	2		T	italian seasoning
@@ -566,13 +566,13 @@ Quick salsa for burritos, tacos, etc.
 *	1		T	dried parsley
 *	1		t	crushed red peppers
 
-## Directions ##
+## Directions
 1.	Add all ingredients to bread machine in the order given. Set to dough (2 lb. loaf).
 
 
-# Rice Pilaf #
+# Rice Pilaf
 
-## Ingredients ##
+## Ingredients
 *	1		C	rice
 *	2		T	olive oil
 *	1/2		C	orzo
@@ -582,22 +582,22 @@ Quick salsa for burritos, tacos, etc.
 *	1		t	parsely flakes
 *	1		t	chives
 
-## Directions ##
+## Directions
 1.	Heat rice, orzo, and oil in medium saucepan over medium heat until golden brown.
 2.	Add water, then stir in spices.
 3.	Bring boil, then reduce to low heat. Simmer until water is absorbed, about 15-20 minutes.
 
 
-# Stew #
+# Stew
 
-## Directions ##
+## Directions
 1.	Add cooked meat and raw or cooked vegetables to gravy and simmer until vegetables are hot and tender.
 	Vegetable suggestions: corn, carrots, broccoli, peas, celery, potatoes, etc.
 
 
-# Szechuan Sauce #
+# Szechuan Sauce
 
-## Ingredients ##
+## Ingredients
 *	1		t	ground cayenne pepper
 *	2		t	garlic powder
 *	1		t	onion powder
@@ -608,27 +608,27 @@ Quick salsa for burritos, tacos, etc.
 *	2		T	soy sauce
 *	1/4		C	hoisin sauce
 
-## Directions ##
+## Directions
 1.	Mix ALL in bowl.
 
 
-# Taco Seasoning #
+# Taco Seasoning
 
-## Ingredients ##
+## Ingredients
 *	2		t	minced onion
 *	2		T	chili powder
 *	2		t	ground cumin
 *	2		t	garlic powder
 *	1/2-1	t	cayenne powder
 
-## Directions ##
+## Directions
 1.	Mix all ingredients in bowl.
 2.	2 T equals one taco seasoning packet.
 
 
-# Teriyaki Sauce #
+# Teriyaki Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	soy sauce
 *	1		C	water
 *	1		t	ground ginger
@@ -636,21 +636,21 @@ Quick salsa for burritos, tacos, etc.
 *	1/3		C	brown sugar (packed)
 *	2			T	cornstarch
 
-## Directions ##
+## Directions
 1.	Mix all ingredients except cornstarch and 1/4 C water in sauce pan and heat MED.
 2.	Mix cornstarch and 1/4 C water in a cup. Add to sauce in pan.
 3.	Heat until suace thickens to desired thickness.
 
-## Alernate (for stir-fry) ##
+## Alernate (for stir-fry)
 1.	Mix all dry ingredients in measuring cup. This prevents the corn starch and sugar from clumping.
 2.	Add soy sauce to the measuring cup; mix.
 3.	Add sauce mix to mostly cooked stir fry in pan.
 4.	Use 1/4 C water to rinse remaining sauce from measuring cup into stir fry.
 
 
-# Three Cheese Sauce #
+# Three Cheese Sauce
 
-## Ingredients ##
+## Ingredients
 *	1/4		C	three cheese blend (romano, parmessian, asagio)
 *	1		t	cumin powder
 *	1		t	onion powder
@@ -661,15 +661,15 @@ Quick salsa for burritos, tacos, etc.
 *	1		t	ginger powder
 *	1-2		C	milk
 
-## Directions ##
+## Directions
 1.	Mix dry ingredients in bowl.
 2.	Make gravy, use milk to thin.
 3.	Stir in cheese/spice mixture.
 
 
-# Tortillas #
+# Tortillas
 
-## Ingredients ##
+## Ingredients
 *	2		C	flour
 *	1		p	baking powder
 *	1/2		C	milk (warmed)
@@ -677,16 +677,16 @@ Quick salsa for burritos, tacos, etc.
 *	1		t	salt
 *	1/4		C	shortening
 
-## Directions ##
+## Directions
 1.	Mix flour, baking powder, baking soda, and salt in a medium bowl. Cut in shortening.
 2.	Mix vinegar with milk to curdle. Mix slowly with dry ingredients. Add cold water if too dry.
 3.	Roll out egg sized balls of dough to 1/8" thickness.
 4.	Cook on greased or seasoned skillet.
 
 
-# Zesty Italian Dressing #
+# Zesty Italian Dressing
 
-## Ingredients ##
+## Ingredients
 *	1		C	vinegar
 *	1		C	olive oil
 *	1/2		T	garlic salt
