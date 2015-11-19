@@ -8,8 +8,9 @@ For more than two people it is recommended to make a "double" batch.
 *	1/2		t	baking soda
 *	1/4		t	salt
 *	1/2		C	butter (softened)
-*	3/4		C	brown sugar (packed)
-*	1/2		t	vanilla
+*	1/2		C	brown sugar (packed)
+*	2		T	molasses
+*	1		t	vanilla
 *	1			egg
 *	1/2		C	chocolate chips
 
