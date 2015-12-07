@@ -4,10 +4,10 @@
 ## Ingredients
 *	1		C	brown sugar
 *	1		C	butter
-*	2		C	vanilla ice cream
-*	1/4		t	nutmeg
-*	1/4		t	ground cloves
-*	1/2		t	cinnamon
+*	3		C	vanilla ice cream
+*	1/2		t	nutmeg
+*	1/2		t	ground cloves
+*	1		t	cinnamon
 
 ## Directions
 1.	Melt together butter and brown sugar in a pan over low heat.
