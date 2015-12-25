@@ -2,11 +2,11 @@
 
 ## Ingredients
 *	1/4		C	butter
-*	1/4		C	flour
-*	1    C	cream
+*	1/2		C	flour
+*	1		C	cream
 *	14	oz	chicken broth
 *	1/4		C	parmesean cheese
-*	1		T	minced garlic
+*	2		t	garlic powder
 *	2		T	italian seasoning
 * 1		t	basil
 
