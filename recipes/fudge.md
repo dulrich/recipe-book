@@ -5,7 +5,7 @@
 *	1/4		t	salt
 *	2 1/2	sq	unsweetened chocolate
 *	2		T	corn syrup
-*	3/4		C	milk
+*	3/4		C	half and half
 *	2		T	butter
 *	1		t	vanilla
 
