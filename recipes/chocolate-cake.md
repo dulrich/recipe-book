@@ -12,7 +12,7 @@
 *	2		T	cider vinegar
 
 ## Directions
-1.	Sift together flour, cocoa powder, baking soda, salt, and sugar in medium bowl.
+1.	Sift together flour, cocoa powder, baking soda, and salt in medium bowl.
 2.	Cream together butter, sugar, and vanilla. Cut into dry ingredients.
 3.	Stir together water and vinegar, add to dry ingredients and stir briefly.
 4.	Quickly pour batter into greased 8x8 baking pan.

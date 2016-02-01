@@ -188,7 +188,7 @@ Added salt especially will prevent the beans from becoming tender.
 *	2		T	cider vinegar
 
 ## Directions
-1.	Sift together flour, cocoa powder, baking soda, salt, and sugar in medium bowl.
+1.	Sift together flour, cocoa powder, baking soda, and salt in medium bowl.
 2.	Cream together butter, sugar, and vanilla. Cut into dry ingredients.
 3.	Stir together water and vinegar, add to dry ingredients and stir briefly.
 4.	Quickly pour batter into greased 8x8 baking pan.
@@ -217,6 +217,36 @@ Sugar is slightly reduced from the original recipe.
 3.	Slowly add dry ingredients to wet and mix well. Stir in chocolate chips.
 4.	Place 2 T balls every 2" on baking sheet.
 5.	Bake at 400°F until edges are brown, but center remains pale, about 7 minutes.
+
+
+# Cinnamon Rolls
+
+## Ingredients (dough)
+*	1		C	milk
+*	4		T	butter
+*	1		t	yeast
+*	2		t	brown sugar
+*	1/4		t	salt
+*	3		C	flour
+
+## Ingredients (filling)
+*	1/4		C	sugar
+*	4		T	butter
+*	2		t	cinnamon
+
+## Directions
+1.	Warm milk to about 110°, place into mixing bowl, add butter, and stir until melted.
+2.	Pitch yeast into milk/butter mixture. Stir, then allow to activate for 5 minutes.
+3.	Add `2 T` brown sugar, and `1/4 t` salt. Stir.
+4.	Add flour slowly, forming a sticky dough.
+5.	Coat outside of dough ball lightly with butter, then cover and allow to rise 1 hour.
+6.	Roll out into a thin 12" by 21" rectangle on a floured board.
+7.	Melt butter for filling and coat the dough.
+8.	Mix cinnanom and sugar, sprinkle over dough.
+9.	Roll dough loosely into a 21" by 2" roll. Cut every 1.5"
+10.	Place rolls on a greased baking pan.
+11.	Let rise 30 minutes, then bake 25 minutes at 350°
+12.	Glaze.
 
 
 # Curries
@@ -388,7 +418,7 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	1/4		t	salt
 *	2 1/2	sq	unsweetened chocolate
 *	2		T	corn syrup
-*	3/4		C	milk
+*	3/4		C	half and half
 *	2		T	butter
 *	1		t	vanilla
 

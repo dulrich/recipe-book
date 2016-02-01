@@ -14,7 +14,7 @@
 *	2		t	cinnamon
 
 ## Directions
-1.	Warm milk to about 110°, place into mixing boql, add butter, and stir until melted.
+1.	Warm milk to about 110°, place into mixing bowl, add butter, and stir until melted.
 2.	Pitch yeast into milk/butter mixture. Stir, then allow to activate for 5 minutes.
 3.	Add `2 T` brown sugar, and `1/4 t` salt. Stir.
 4.	Add flour slowly, forming a sticky dough.
