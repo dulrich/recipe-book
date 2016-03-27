@@ -25,7 +25,7 @@
 2.	Mix marinade ingredients in a bowl.
 3.	Add chicken or tofu to marinade, refrigerate 1 hour.
 4.	Place chicken on skewers and grill.
-5.	Sauté garlic with coconut oil in large suacepan 2 minutes.
+5.	Sauté garlic with coconut oil in large saucepan 2 minutes.
 6.	Add other sauce spices and sauté additional 2 minutes.
 7.	Add tomato sauce and cream to spices, simmer until thickened (about 15 minutes).
 8.	Add chicken or tofu and simmer additional 10 minutes.

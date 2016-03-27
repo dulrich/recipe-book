@@ -1,4 +1,4 @@
-# Pizza Dough
+# Pizza Sauces
 
 ## Tomato Suace
 *	8		oz	tomato sauce

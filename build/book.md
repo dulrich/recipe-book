@@ -14,9 +14,7 @@
 
 # Substitutions
 
-**Olive Oil**			in place of butter
-
-**Whole Wheat Flour**	in place of flour, adding 1 T wheat gluten per cup of
+**Whole Wheat Flour** in place of flour, adding `1 T` wheat gluten per cup of
 flour for texture
 
 
@@ -168,7 +166,7 @@ Added salt especially will prevent the beans from becoming tender.
 2.	Mix marinade ingredients in a bowl.
 3.	Add chicken or tofu to marinade, refrigerate 1 hour.
 4.	Place chicken on skewers and grill.
-5.	Sauté garlic with coconut oil in large suacepan 2 minutes.
+5.	Sauté garlic with coconut oil in large saucepan 2 minutes.
 6.	Add other sauce spices and sauté additional 2 minutes.
 7.	Add tomato sauce and cream to spices, simmer until thickened (about 15 minutes).
 8.	Add chicken or tofu and simmer additional 10 minutes.
@@ -665,7 +663,7 @@ Quick salsa for burritos, tacos, etc.
 2.	Pulse until minced.
 
 
-# Pizza Dough
+# Pizza Sauces
 
 ## Tomato Suace
 *	8		oz	tomato sauce
