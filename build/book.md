@@ -14,9 +14,7 @@
 
 # Substitutions
 
-**Olive Oil**			in place of butter
-
-**Whole Wheat Flour**	in place of flour, adding 1 T wheat gluten per cup of
+**Whole Wheat Flour** in place of flour, adding `1 T` wheat gluten per cup of
 flour for texture
 
 
@@ -168,7 +166,7 @@ Added salt especially will prevent the beans from becoming tender.
 2.	Mix marinade ingredients in a bowl.
 3.	Add chicken or tofu to marinade, refrigerate 1 hour.
 4.	Place chicken on skewers and grill.
-5.	Sauté garlic with coconut oil in large suacepan 2 minutes.
+5.	Sauté garlic with coconut oil in large saucepan 2 minutes.
 6.	Add other sauce spices and sauté additional 2 minutes.
 7.	Add tomato sauce and cream to spices, simmer until thickened (about 15 minutes).
 8.	Add chicken or tofu and simmer additional 10 minutes.
@@ -873,7 +871,7 @@ For more than two people it is recommended to make a "double" batch.
 *	1/4		t	celery salt
 
 
-**Copyright (c)  2012 - 2015 David Ulrich**
+**Copyright (c)  2012 - 2016 David Ulrich**
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3

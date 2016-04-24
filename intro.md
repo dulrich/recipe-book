@@ -12,9 +12,7 @@
 
 # Substitutions
 
-**Olive Oil**			in place of butter
-
-**Whole Wheat Flour**	in place of flour, adding 1 T wheat gluten per cup of
+**Whole Wheat Flour** in place of flour, adding `1 T` wheat gluten per cup of
 flour for texture
 
 

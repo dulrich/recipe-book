@@ -9,7 +9,7 @@ View the full book [here](build/book.md) on github.
 
 # license
 
-Copyright (c)  2012 - 2015  David Ulrich (http://github.com/dulrich)
+Copyright (c)  2012 - 2016  David Ulrich (http://github.com/dulrich)
 
 Permission is granted to copy, distribute and/or modify this document
 under the terms of the GNU Free Documentation License, Version 1.3
