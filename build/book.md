@@ -384,9 +384,9 @@ if you are not already. This may provide enough extra rise if the sourdough is t
 *	2		t	chili powder
 *	1		t	paprika
 *	1		t	sugar
-*	3/4		t	chicken bouillon
+*	1		t	chicken bouillon
 *	1/2		t	onion powder
-*	1/2		t	garlic powder
+*	1		t	garlic powder
 *	1/4		t	cayenne powder
 *	1/2		t	cumin
 
