@@ -861,6 +861,7 @@ For more than two people it is recommended to make a "double" batch.
 ## Ingredients
 *	1		C	vinegar
 *	1		C	olive oil
+*	1		T	cor starch or arrowroot powder
 *	1/2		T	garlic salt
 *	1/2		T	onion powder
 *	1		T	oregano
@@ -869,6 +870,7 @@ For more than two people it is recommended to make a "double" batch.
 *	1/2		t	basil
 *	1/2		t	parsley
 *	1/4		t	celery salt
+*	1/4		t	red pepper flakes
 
 
 **Copyright (c)  2012 - 2016 David Ulrich**
