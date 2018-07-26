@@ -1,16 +1,23 @@
-# Beans (Dry)
+# Beans
 
-This is a general guide, not a specific recipe.
-The most important notes are soak at least six hours, drain the soaking water, and **DO NOT** add any salt or spices until after cooking.
-Added salt especially will prevent the beans from becoming tender.
 
 ## Ingredients
-*	1-2		C	dry beans (black, red, pinto, or garbanzo are best)
+*	1		lb	dry black beans
+*	3 1/3	C	water
+*	2		T	olive oil
+*	1			onion
+*	1			can diced green chili
+*	1		t	red pepper flakes
+*	2		T	minced garlic
+*	1		T	diced cilantro stems
+*	1		t	oregano
+*	2		t	cumin
+*	2			bay leaves
 
 ## Directions
-1.	Place beans in medium pot. 4-6qt slow cooker works well.
-2.	Cover with water so there is 3/4-1" over the beans.
-3.	Cover with lid and soak overnight, or at least 6 hours.
-4.	Drain soaking water. Re-cover with fresh water. Do not add salt or spices.
-5.	Simmer over Med-Lo heat (Hi on crock pot) 1-2 hours, until tender.
-6.	Strain out beans. Serve or use in other recipe, such as hummus (garbanzo) or refrieds (pinto)
+1.	Saute diced onion, green chilis, red pepper flakes in pressure cooker
+2.	Add garlic, cilantro stems, oregano, cumin, and bay leaves; saute briefly
+3.	Add rinsed beans, water
+4.	Cook on high pressure for 35 minutes
+5.	Let steam bleed naturally for 20 minutes
+6.	Remove bay leaves, keep on warm or return to saute stirring frequently until desired consistency
